@@ -24,10 +24,9 @@ KULLANIMI:
 *  "ÖNCELİKLERİM" kısmında günün en öncelikli 3 görevini yazabilirsiniz böylelikle günün en önemli görevlerini daha net görmüş olursunuz.
 *  "GÜNLÜK HEDEFLER" kısmında gün içindeki hedeflerinizi netleştirmenizi, öncelik sırasına koymayı ve takip etmenizi kolaylaştırır ve liste oluşturmanıza yardımcı olur.
 *  "NOTLAR" kısmında günlük olayları, düşünceleri, fikirleri veya notları kaydetmek için kullanabilirsiniz.
-*  "GÜNLÜK SAĞLIK" kısmında hayatı daha sağlıklı yaşamanıza motive edecek "su miktarı" ve "günlük egzersiz" süresi yer alıyor. Her bir bardak 300 ml su miktarını ifade eder ve bardak ikonunun üstüne tıkladığınızda içmiş olduğunuzu belirten kırmızı tik ile bardağın üstü işaretlenmiş olur.
-*  
+*  "GÜNLÜK SAĞLIK" kısmında hayatı daha sağlıklı yaşamanıza motive edecek "su miktarı" ve "günlük egzersiz" süresi yer alıyor. Her bir bardak 300 ml su miktarını ifade eder ve bardak ikonunun üstüne tıkladığınızda içmiş olduğunuzu belirten kırmızı tik ile bardağın üstü işaretlenmiş olur. Günlük egzersiz kısmında ise egzersiz yaptığınız süreyi girebilirsiniz. 
 
 
-
+Aşağıdaki 2. resimde ise "GÜNLÜK PLANLAYICININ" son halinin neye benzeyeceğini görebilirsiniz.  
 
 ![Günlük Planlayıcı 11 06 2023 18_26_06](https://github.com/Semanur-Ucdag/gunluk_planlayici/assets/103859993/d688ab55-92ea-48ec-8a25-fcb0840f858b)
