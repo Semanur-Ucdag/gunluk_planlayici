@@ -18,9 +18,12 @@ Uygulamanın doldurulmamış yani ilk hali aşağıdaki gibidir.
 KULLANIMI:
 * Sol üst taraftaki takvimden planlamak istediğiniz günü seçiyorsunuz örneğin ben 11 Haz. gününü seçtim ve o günün günlük planlamasını yaptım.
 *  "EKLE" tuşuna basarak hangi alanı dolduracağınızı seçebilirsiniz.
-*  "KATDET" tuşuna basarak yaptığınız değişiklikleri kaydedebilirsiniz.
+*  "KAYDET" tuşuna basarak yaptığınız değişiklikleri kaydedebilirsiniz.
 *  "SİL" tuşuna basarak silmek istediğiniz alanı silebilirsiniz.
-*  aaaaaaaaaaaaaa
+*  "Günlük Akış" kısmında günü saatlere bölerek planladığınız etkinlikleri, görevleri veya randevuları her bir zaman diliminin yanına yazabillirsiniz.
+*  "ÖNCELİKLERİM" kısmında günün en öncelikli 3 görevini yazabilirsiniz böylelikle günün en önemli görevlerini daha net görmüş olursunuz.
+*  "GÜNLÜK HEDEFLER" kısmında gün içindeki hedeflerinizi netleştirmenizi, öncelik sırasına koymayı ve takip etmenizi kolaylaştırır ve liste oluşturmanıza yardımcı olur.
+*  "NOTLAR" kısmında günlük olayları, düşünceleri, fikirleri veya notları kaydetmek için kullanabilirsiniz
 
 
 
