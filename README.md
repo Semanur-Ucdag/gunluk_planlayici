@@ -20,7 +20,7 @@ KULLANIMI:
 *  "EKLE" tuşuna basarak hangi alanı dolduracağınızı seçebilirsiniz.
 *  "KATDET" tuşuna basarak yaptığınız değişiklikleri kaydedebilirsiniz.
 *  "SİL" tuşuna basarak silmek istediğiniz alanı silebilirsiniz.
-*  
+*  aaaaaaaaaaaaaa
 
 
 
