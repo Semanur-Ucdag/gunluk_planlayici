@@ -1,5 +1,5 @@
 # gunluk_planlayici
-Bu projem  "GÜNLÜK PLANLAYICI" uygulamasıdır. Bu projemde günlük planlarını ve  hedeflerini takip edip günü verimli kullanmanıza yardımcı olur.
+Bu projem  "GÜNLÜK PLANLAYICI" uygulamasıdır. Bu projem günlük planlarınızı ve  hedeflerinizi takip edip günü verimli kullanmanıza yardımcı olur.
 
 Bu projemin size nerelerde faydalı  olacağını hatırlatmak isterim:
   * Uygulamam, kullanıcının günlük işlerini ve hedeflerini kolaylıkla takip etmesini sağlar. Kullanıcılar, projelerini ve görevlerini organize eder. Böylelikle günü daha verimli kullanabilirler.
