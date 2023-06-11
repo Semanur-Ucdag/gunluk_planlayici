@@ -23,7 +23,9 @@ KULLANIMI:
 *  "Günlük Akış" kısmında günü saatlere bölerek planladığınız etkinlikleri, görevleri veya randevuları her bir zaman diliminin yanına yazabillirsiniz.
 *  "ÖNCELİKLERİM" kısmında günün en öncelikli 3 görevini yazabilirsiniz böylelikle günün en önemli görevlerini daha net görmüş olursunuz.
 *  "GÜNLÜK HEDEFLER" kısmında gün içindeki hedeflerinizi netleştirmenizi, öncelik sırasına koymayı ve takip etmenizi kolaylaştırır ve liste oluşturmanıza yardımcı olur.
-*  "NOTLAR" kısmında günlük olayları, düşünceleri, fikirleri veya notları kaydetmek için kullanabilirsiniz
+*  "NOTLAR" kısmında günlük olayları, düşünceleri, fikirleri veya notları kaydetmek için kullanabilirsiniz.
+*  "GÜNLÜK SAĞLIK" kısmında hayatı daha sağlıklı yaşamanıza motive edecek "su miktarı" ve "günlük egzersiz" süresi yer alıyor. Her bir bardak 300 ml su miktarını ifade eder ve bardak ikonunun üstüne tıkladığınızda içmiş olduğunuzu belirten kırmızı tik ile bardağın üstü işaretlenmiş olur.
+*  
 
 
 
